@@ -8,6 +8,10 @@
 - The Pinnacles
 - Shooting Star Trailhead
 
+---  
+
+![Nature](https://th.bing.com/th/id/OIP.fv-_WmntsYlKSERMpzw09QHaEK?rs=1&pid=ImgDetMain)
+
 ---
 
 - [Home Page](README.md)
